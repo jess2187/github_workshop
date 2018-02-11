@@ -1,10 +1,12 @@
 
 
 print("I just changed this file")
-print("hi dad")
 
-print("hi kari")
+
+print("hi kariVFDVF")
 print("yo")
+
+GRTDTDBGDR
 
 print("Jessie")
 
