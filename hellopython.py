@@ -11,6 +11,6 @@ print("Jessie")
 for i in range(3):
 	print(i)
 
-print("ANOTHER REALLY COOL EDIT!!!! :):):):):):):);)")
+print("ANOTHER REALLY COOL EDIT!!!")
 
-
+print("THE THIRD REALLY COOL EDIT!!!! ")
